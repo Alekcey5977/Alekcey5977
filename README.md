@@ -7,8 +7,8 @@
   <a href="https://t.me/Alekcey5">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:alekcey7795@mail.ru">
-    <img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" />
+  <a href="https://vk.com/alekceykilin">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
   <a href="https://krasnoyarsk.hh.ru/resume/e81791ccff0f84921b0039ed1f6b7944665841">
     <img src="https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=hh.ru&logoColor=white" />
