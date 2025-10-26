@@ -1,4 +1,4 @@
-![Header](https://github.com/Alekcey5977/Alekcey5977/blob/main/assets/header.jpg)
+![Header](https://github.com/Alekcey5977/Alekcey5977/blob/main/assets/header3.jpg)
 
 <h1 align="center">🚀 Привет, я Алексей</h1>
 <h3 align="center">Начинающий Backend Developer</h3>
