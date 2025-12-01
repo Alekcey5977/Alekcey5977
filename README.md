@@ -52,10 +52,10 @@
 ```
 ---
 
-## 📊 Статистика GitHub
+## :fire: My Stats :
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Alekcey5977&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alekcey5977&theme=dark&hide_border=true&border_radius=5.8&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ---
