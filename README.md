@@ -10,7 +10,7 @@
   <a href="https://vk.com/alekceykilin">
     <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" />
   </a>
-  <a href="https://krasnoyarsk.hh.ru/resume/b3073780ff0fdc0d710039ed1f4573626d3343">
+  <a href="https://krasnoyarsk.hh.ru/resume/156bfc43ff0fe99db10039ed1f4464354a7653">
     <img src="https://img.shields.io/badge/HeadHunter-FF0000?style=for-the-badge&logo=hh.ru&logoColor=white" />
   </a>
 </p>
