@@ -1,5 +1,8 @@
 ![Header](https://github.com/Alekcey5977/Alekcey5977/blob/main/assets/header3.jpg)
+<div align='center'>
+<img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/output/snake.svg" alt="Snake animation" />
 
+<div align='center'>
 <h1 align="center">🚀 Привет, я Алексей</h1>
 <h3 align="center">Начинающий Backend Developer</h3>
 
